@@ -1,4 +1,5 @@
 # DMS
+![Banner of DMS](https://raw.githubusercontent.com/rabiulrahat/DMS/edit/main/banner.png)
 It's a simple diary management system or can call simple note adding system.where you can add several file or note  as your desire.
 
 ## How To use
