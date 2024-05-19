@@ -52,7 +52,7 @@ We welcome contributions from the community! If you're a developer and would lik
 2. Make sure your changes follow our coding practices and are well-tested.
 3. Submit a pull request, describing your changes and the problem they solve.
 
-For more information, please refer to our [Documentation]([LINK_TO_YOUR_DOCUMENTATION](https://github.com/rabiulrahat/DMS)).
+For more information, please refer to our [Documentation](https://github.com/rabiulrahat/DMS).
 
 ## Troubleshooting
 
