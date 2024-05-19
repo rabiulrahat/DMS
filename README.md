@@ -64,7 +64,7 @@ Here are some common issues that users or developers might encounter, along with
 - **Issue**: The app fails to fetch data from the file or database.
   - **Solution**: Make sure you have a stable internet connection (if using a database) and the file or database is up and running.
 
-For more information, please refer to our [Documentation]([(https://github.com/rabiulrahat/DMS)]).
+For more information, please refer to our [Documentation]((https://github.com/rabiulrahat/DMS)).
 
 ## License
 
