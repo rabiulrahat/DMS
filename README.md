@@ -52,7 +52,7 @@ We welcome contributions from the community! If you're a developer and would lik
 2. Make sure your changes follow our coding practices and are well-tested.
 3. Submit a pull request, describing your changes and the problem they solve.
 
-For more information, please refer to our [Documentation](LINK_TO_YOUR_DOCUMENTATION).
+For more information, please refer to our [Documentation]([LINK_TO_YOUR_DOCUMENTATION](https://github.com/rabiulrahat/DMS)).
 
 ## Troubleshooting
 
@@ -64,7 +64,7 @@ Here are some common issues that users or developers might encounter, along with
 - **Issue**: The app fails to fetch data from the file or database.
   - **Solution**: Make sure you have a stable internet connection (if using a database) and the file or database is up and running.
 
-For more information, please refer to our [Documentation](LINK_TO_YOUR_DOCUMENTATION).
+For more information, please refer to our [Documentation]([LINK_TO_YOUR_DOCUMENTATION](https://github.com/rabiulrahat/DMS)).
 
 ## License
 
